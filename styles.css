@@ -149,6 +149,8 @@ h1,h2,h3{font-weight:600}
 .showroom-eyebrow{font-family:var(--mono);font-size:.75rem!important;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:var(--accent)}
 .showroom-city{font-family:var(--display);font-size:clamp(1.4rem,2.6vw,1.9rem)!important;font-weight:600;line-height:1.15;color:#fff;margin:.35rem 0 .8rem!important}
 .showroom-info address{font-style:normal;font-family:var(--mono);font-size:.85rem;color:#dbe9f1;padding-bottom:1.1rem;margin-bottom:1.1rem;border-bottom:1px solid rgba(159,211,230,.35)}
+.showroom-phone{color:#fff;font-weight:600;text-decoration:none}
+.showroom-phone:hover,.showroom-phone:focus-visible{text-decoration:underline}
 ul.showroom-chips{list-style:none;display:flex;flex-wrap:wrap;gap:.4rem;padding:0;margin:.7rem 0 0}
 .showroom-chips li{font-family:var(--mono);font-size:.78rem!important;padding:.3rem .7rem;border-radius:8px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.2);color:#dbe9f1}
 .showroom-map{min-height:320px;background:#0a0f15}
