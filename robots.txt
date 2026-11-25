@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.top5windowsvancouver.ca/sitemap.xml
+Sitemap: https://bestwindowvancouver.online/sitemap.xml
